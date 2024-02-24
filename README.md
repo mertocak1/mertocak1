@@ -19,9 +19,9 @@
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,postman" /><br>
 </div>
 
-
+<!--
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
+ <br> 
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com?user=mertocak1&count_private=true&&theme=chartreuse-dark&border_radius=10" alt="GitHub Streak" />
   
@@ -29,7 +29,7 @@
   <br/>
   <img width=370 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertocak1&layout=compact&show_icons=true&border_radius=10&theme=chartreuse-dark" />
 </div>
-
+    -->
 <br/><br/>
 
 <hr/>
