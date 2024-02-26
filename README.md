@@ -21,7 +21,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
  <br> 
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=mertocak1&count_private=true&theme=chartreuse-dark&border_radius=10" alt="GitHub Streak" />
+  <img width=393 src="https://github-readme-streak-stats-1rr6.vercel.app?user=mertocak1&count_private=true&theme=chartreuse-dark&border_radius=10" alt="GitHub Streak" />
   
   <img width=370 src="https://github-readme-stats-mertocak1s-projects.vercel.app/api?username=mertocak1&count_private=true&show_icons=true&border_radius=10&theme=chartreuse-dark" />
   <br/>
