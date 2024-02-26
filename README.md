@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&duration=2000&pause=1000&color=0AD900&center=true&vCenter=true&multiline=true&random=false&width=435&height=90&lines=Hi+there!;This+is+Mert;I+am+a+full+stack+web+developer!"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&duration=2000&pause=1000&color=0AD900&center=true&vCenter=true&multiline=true&random=false&width=435&height=90&lines=Hi+there!;This+is+Mert;I+am+a+full-stack+web+developer!"/>
 <br>
   <a href="mailto:mertgirisim@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
