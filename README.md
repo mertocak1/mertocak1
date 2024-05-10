@@ -15,7 +15,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,threejs,ts,javascript,html,css,sass,nodejs,c,cpp" />
   <br>
-    <img src="https://skillicons.dev/icons?i=vscode,blender,visualstudio,github,git,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,figma,blender,visualstudio,github,git,postman" /><br>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
